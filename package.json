@@ -1,0 +1,22 @@
+{
+  "name": "Semantic-Web-and-Linked-Data-Project",
+  "version": "1.0.0",
+  "description": "https://github.com/mcgrath94/Semantic-Web-and-Linked-Data-Project",
+  "main": "api.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mcgrath94/Semantic-Web-and-Linked-Data-Project.git"
+  },
+  "author": "Niall McGrath",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mcgrath94/Semantic-Web-and-Linked-Data-Project/issues"
+  },
+  "homepage": "https://github.com/mcgrath94/Semantic-Web-and-Linked-Data-Project#readme",
+  "dependencies": {
+    "express": "^4.13.3"
+  }
+}
