@@ -3,2618 +3,2618 @@
     "AreaCode":"C01",
     "AreaType":"CTY",
     "Area":"Carlow",
-    "TravelMeans":"On foot",
+    "TravelType":"On foot",
     "NumPeople":4862
   },
   {
     "AreaCode":"C02",
     "AreaType":"CTY",
     "Area":"Dublin City",
-    "TravelMeans":"On foot",
+    "TravelType":"On foot",
     "NumPeople":89197
   },
   {
     "AreaCode":"C03",
     "AreaType":"CTY",
     "Area":"South Dublin",
-    "TravelMeans":"On foot",
+    "TravelType":"On foot",
     "NumPeople":27765
   },
   {
     "AreaCode":"C04",
     "AreaType":"CTY",
     "Area":"Fingal",
-    "TravelMeans":"On foot",
+    "TravelType":"On foot",
     "NumPeople":27206
   },
   {
     "AreaCode":"C05",
     "AreaType":"CTY",
     "Area":"Dún Laoghaire-Rathdown",
-    "TravelMeans":"On foot",
+    "TravelType":"On foot",
     "NumPeople":18450
   },
   {
     "AreaCode":"C06",
     "AreaType":"CTY",
     "Area":"Kildare",
-    "TravelMeans":"On foot",
+    "TravelType":"On foot",
     "NumPeople":19304
   },
   {
     "AreaCode":"C07",
     "AreaType":"CTY",
     "Area":"Kilkenny",
-    "TravelMeans":"On foot",
+    "TravelType":"On foot",
     "NumPeople":7077
   },
   {
     "AreaCode":"C08",
     "AreaType":"CTY",
     "Area":"Laois",
-    "TravelMeans":"On foot",
+    "TravelType":"On foot",
     "NumPeople":4859
   },
   {
     "AreaCode":"C09",
     "AreaType":"CTY",
     "Area":"Longford",
-    "TravelMeans":"On foot",
+    "TravelType":"On foot",
     "NumPeople":2602
   },
   {
     "AreaCode":"C10",
     "AreaType":"CTY",
     "Area":"Louth",
-    "TravelMeans":"On foot",
+    "TravelType":"On foot",
     "NumPeople":11712
   },
   {
     "AreaCode":"C11",
     "AreaType":"CTY",
     "Area":"Meath",
-    "TravelMeans":"On foot",
+    "TravelType":"On foot",
     "NumPeople":15152
   },
   {
     "AreaCode":"C12",
     "AreaType":"CTY",
     "Area":"Offaly",
-    "TravelMeans":"On foot",
+    "TravelType":"On foot",
     "NumPeople":5421
   },
   {
     "AreaCode":"C13",
     "AreaType":"CTY",
     "Area":"Westmeath",
-    "TravelMeans":"On foot",
+    "TravelType":"On foot",
     "NumPeople":6975
   },
   {
     "AreaCode":"C14",
     "AreaType":"CTY",
     "Area":"Wexford",
-    "TravelMeans":"On foot",
+    "TravelType":"On foot",
     "NumPeople":9756
   },
   {
     "AreaCode":"C15",
     "AreaType":"CTY",
     "Area":"Wicklow",
-    "TravelMeans":"On foot",
+    "TravelType":"On foot",
     "NumPeople":10716
   },
   {
     "AreaCode":"C16",
     "AreaType":"CTY",
     "Area":"Clare",
-    "TravelMeans":"On foot",
+    "TravelType":"On foot",
     "NumPeople":8174
   },
   {
     "AreaCode":"C17",
     "AreaType":"CTY",
     "Area":"Cork City",
-    "TravelMeans":"On foot",
+    "TravelType":"On foot",
     "NumPeople":21144
   },
   {
     "AreaCode":"C18",
     "AreaType":"CTY",
     "Area":"Cork",
-    "TravelMeans":"On foot",
+    "TravelType":"On foot",
     "NumPeople":23947
   },
   {
     "AreaCode":"C19",
     "AreaType":"CTY",
     "Area":"Kerry",
-    "TravelMeans":"On foot",
+    "TravelType":"On foot",
     "NumPeople":9084
   },
   {
     "AreaCode":"C20",
     "AreaType":"CTY",
     "Area":"Limerick City",
-    "TravelMeans":"On foot",
+    "TravelType":"On foot",
     "NumPeople":9574
   },
   {
     "AreaCode":"C21",
     "AreaType":"CTY",
     "Area":"Limerick",
-    "TravelMeans":"On foot",
+    "TravelType":"On foot",
     "NumPeople":8916
   },
   {
     "AreaCode":"C22",
     "AreaType":"CTY",
     "Area":"Tipperary North",
-    "TravelMeans":"On foot",
+    "TravelType":"On foot",
     "NumPeople":5113
   },
   {
     "AreaCode":"C23",
     "AreaType":"CTY",
     "Area":"Tipperary South",
-    "TravelMeans":"On foot",
+    "TravelType":"On foot",
     "NumPeople":6096
   },
   {
     "AreaCode":"C24",
     "AreaType":"CTY",
     "Area":"Waterford City",
-    "TravelMeans":"On foot",
+    "TravelType":"On foot",
     "NumPeople":5507
   },
   {
     "AreaCode":"C25",
     "AreaType":"CTY",
     "Area":"Waterford",
-    "TravelMeans":"On foot",
+    "TravelType":"On foot",
     "NumPeople":3972
   },
   {
     "AreaCode":"C26",
     "AreaType":"CTY",
     "Area":"Galway City",
-    "TravelMeans":"On foot",
+    "TravelType":"On foot",
     "NumPeople":11283
   },
   {
     "AreaCode":"C27",
     "AreaType":"CTY",
     "Area":"Galway",
-    "TravelMeans":"On foot",
+    "TravelType":"On foot",
     "NumPeople":7895
   },
   {
     "AreaCode":"C28",
     "AreaType":"CTY",
     "Area":"Leitrim",
-    "TravelMeans":"On foot",
+    "TravelType":"On foot",
     "NumPeople":1680
   },
   {
     "AreaCode":"C29",
     "AreaType":"CTY",
     "Area":"Mayo",
-    "TravelMeans":"On foot",
+    "TravelType":"On foot",
     "NumPeople":7624
   },
   {
     "AreaCode":"C30",
     "AreaType":"CTY",
     "Area":"Roscommon",
-    "TravelMeans":"On foot",
+    "TravelType":"On foot",
     "NumPeople":2923
   },
   {
     "AreaCode":"C31",
     "AreaType":"CTY",
     "Area":"Sligo",
-    "TravelMeans":"On foot",
+    "TravelType":"On foot",
     "NumPeople":5465
   },
   {
     "AreaCode":"C32",
     "AreaType":"CTY",
     "Area":"Cavan",
-    "TravelMeans":"On foot",
+    "TravelType":"On foot",
     "NumPeople":3880
   },
   {
     "AreaCode":"C33",
     "AreaType":"CTY",
     "Area":"Donegal",
-    "TravelMeans":"On foot",
+    "TravelType":"On foot",
     "NumPeople":7764
   },
   {
     "AreaCode":"C34",
     "AreaType":"CTY",
     "Area":"Monaghan",
-    "TravelMeans":"On foot",
+    "TravelType":"On foot",
     "NumPeople":3843
   },
   {
     "AreaCode":"C01",
     "AreaType":"CTY",
     "Area":"Carlow",
-    "TravelMeans":"Bicycle",
+    "TravelType":"Bicycle",
     "NumPeople":311
   },
   {
     "AreaCode":"C02",
     "AreaType":"CTY",
     "Area":"Dublin City",
-    "TravelMeans":"Bicycle",
+    "TravelType":"Bicycle",
     "NumPeople":23265
   },
   {
     "AreaCode":"C03",
     "AreaType":"CTY",
     "Area":"South Dublin",
-    "TravelMeans":"Bicycle",
+    "TravelType":"Bicycle",
     "NumPeople":4985
   },
   {
     "AreaCode":"C04",
     "AreaType":"CTY",
     "Area":"Fingal",
-    "TravelMeans":"Bicycle",
+    "TravelType":"Bicycle",
     "NumPeople":3925
   },
   {
     "AreaCode":"C05",
     "AreaType":"CTY",
     "Area":"Dún Laoghaire-Rathdown",
-    "TravelMeans":"Bicycle",
+    "TravelType":"Bicycle",
     "NumPeople":6869
   },
   {
     "AreaCode":"C06",
     "AreaType":"CTY",
     "Area":"Kildare",
-    "TravelMeans":"Bicycle",
+    "TravelType":"Bicycle",
     "NumPeople":1941
   },
   {
     "AreaCode":"C07",
     "AreaType":"CTY",
     "Area":"Kilkenny",
-    "TravelMeans":"Bicycle",
+    "TravelType":"Bicycle",
     "NumPeople":724
   },
   {
     "AreaCode":"C08",
     "AreaType":"CTY",
     "Area":"Laois",
-    "TravelMeans":"Bicycle",
+    "TravelType":"Bicycle",
     "NumPeople":467
   },
   {
     "AreaCode":"C09",
     "AreaType":"CTY",
     "Area":"Longford",
-    "TravelMeans":"Bicycle",
+    "TravelType":"Bicycle",
     "NumPeople":189
   },
   {
     "AreaCode":"C10",
     "AreaType":"CTY",
     "Area":"Louth",
-    "TravelMeans":"Bicycle",
+    "TravelType":"Bicycle",
     "NumPeople":1114
   },
   {
     "AreaCode":"C11",
     "AreaType":"CTY",
     "Area":"Meath",
-    "TravelMeans":"Bicycle",
+    "TravelType":"Bicycle",
     "NumPeople":1017
   },
   {
     "AreaCode":"C12",
     "AreaType":"CTY",
     "Area":"Offaly",
-    "TravelMeans":"Bicycle",
+    "TravelType":"Bicycle",
     "NumPeople":531
   },
   {
     "AreaCode":"C13",
     "AreaType":"CTY",
     "Area":"Westmeath",
-    "TravelMeans":"Bicycle",
+    "TravelType":"Bicycle",
     "NumPeople":655
   },
   {
     "AreaCode":"C14",
     "AreaType":"CTY",
     "Area":"Wexford",
-    "TravelMeans":"Bicycle",
+    "TravelType":"Bicycle",
     "NumPeople":466
   },
   {
     "AreaCode":"C15",
     "AreaType":"CTY",
     "Area":"Wicklow",
-    "TravelMeans":"Bicycle",
+    "TravelType":"Bicycle",
     "NumPeople":806
   },
   {
     "AreaCode":"C16",
     "AreaType":"CTY",
     "Area":"Clare",
-    "TravelMeans":"Bicycle",
+    "TravelType":"Bicycle",
     "NumPeople":762
   },
   {
     "AreaCode":"C17",
     "AreaType":"CTY",
     "Area":"Cork City",
-    "TravelMeans":"Bicycle",
+    "TravelType":"Bicycle",
     "NumPeople":1878
   },
   {
     "AreaCode":"C18",
     "AreaType":"CTY",
     "Area":"Cork",
-    "TravelMeans":"Bicycle",
+    "TravelType":"Bicycle",
     "NumPeople":1570
   },
   {
     "AreaCode":"C19",
     "AreaType":"CTY",
     "Area":"Kerry",
-    "TravelMeans":"Bicycle",
+    "TravelType":"Bicycle",
     "NumPeople":1291
   },
   {
     "AreaCode":"C20",
     "AreaType":"CTY",
     "Area":"Limerick City",
-    "TravelMeans":"Bicycle",
+    "TravelType":"Bicycle",
     "NumPeople":820
   },
   {
     "AreaCode":"C21",
     "AreaType":"CTY",
     "Area":"Limerick",
-    "TravelMeans":"Bicycle",
+    "TravelType":"Bicycle",
     "NumPeople":730
   },
   {
     "AreaCode":"C22",
     "AreaType":"CTY",
     "Area":"Tipperary North",
-    "TravelMeans":"Bicycle",
+    "TravelType":"Bicycle",
     "NumPeople":326
   },
   {
     "AreaCode":"C23",
     "AreaType":"CTY",
     "Area":"Tipperary South",
-    "TravelMeans":"Bicycle",
+    "TravelType":"Bicycle",
     "NumPeople":357
   },
   {
     "AreaCode":"C24",
     "AreaType":"CTY",
     "Area":"Waterford City",
-    "TravelMeans":"Bicycle",
+    "TravelType":"Bicycle",
     "NumPeople":433
   },
   {
     "AreaCode":"C25",
     "AreaType":"CTY",
     "Area":"Waterford",
-    "TravelMeans":"Bicycle",
+    "TravelType":"Bicycle",
     "NumPeople":363
   },
   {
     "AreaCode":"C26",
     "AreaType":"CTY",
     "Area":"Galway City",
-    "TravelMeans":"Bicycle",
+    "TravelType":"Bicycle",
     "NumPeople":2314
   },
   {
     "AreaCode":"C27",
     "AreaType":"CTY",
     "Area":"Galway",
-    "TravelMeans":"Bicycle",
+    "TravelType":"Bicycle",
     "NumPeople":944
   },
   {
     "AreaCode":"C28",
     "AreaType":"CTY",
     "Area":"Leitrim",
-    "TravelMeans":"Bicycle",
+    "TravelType":"Bicycle",
     "NumPeople":100
   },
   {
     "AreaCode":"C29",
     "AreaType":"CTY",
     "Area":"Mayo",
-    "TravelMeans":"Bicycle",
+    "TravelType":"Bicycle",
     "NumPeople":637
   },
   {
     "AreaCode":"C30",
     "AreaType":"CTY",
     "Area":"Roscommon",
-    "TravelMeans":"Bicycle",
+    "TravelType":"Bicycle",
     "NumPeople":293
   },
   {
     "AreaCode":"C31",
     "AreaType":"CTY",
     "Area":"Sligo",
-    "TravelMeans":"Bicycle",
+    "TravelType":"Bicycle",
     "NumPeople":438
   },
   {
     "AreaCode":"C32",
     "AreaType":"CTY",
     "Area":"Cavan",
-    "TravelMeans":"Bicycle",
+    "TravelType":"Bicycle",
     "NumPeople":170
   },
   {
     "AreaCode":"C33",
     "AreaType":"CTY",
     "Area":"Donegal",
-    "TravelMeans":"Bicycle",
+    "TravelType":"Bicycle",
     "NumPeople":336
   },
   {
     "AreaCode":"C34",
     "AreaType":"CTY",
     "Area":"Monaghan",
-    "TravelMeans":"Bicycle",
+    "TravelType":"Bicycle",
     "NumPeople":150
   },
   {
     "AreaCode":"C01",
     "AreaType":"CTY",
     "Area":"Carlow",
-    "TravelMeans":"Bus, minibus or coach",
+    "TravelType":"Bus, minibus or coach",
     "NumPeople":1729
   },
   {
     "AreaCode":"C02",
     "AreaType":"CTY",
     "Area":"Dublin City",
-    "TravelMeans":"Bus, minibus or coach",
+    "TravelType":"Bus, minibus or coach",
     "NumPeople":55601
   },
   {
     "AreaCode":"C03",
     "AreaType":"CTY",
     "Area":"South Dublin",
-    "TravelMeans":"Bus, minibus or coach",
+    "TravelType":"Bus, minibus or coach",
     "NumPeople":22941
   },
   {
     "AreaCode":"C04",
     "AreaType":"CTY",
     "Area":"Fingal",
-    "TravelMeans":"Bus, minibus or coach",
+    "TravelType":"Bus, minibus or coach",
     "NumPeople":20728
   },
   {
     "AreaCode":"C05",
     "AreaType":"CTY",
     "Area":"Dún Laoghaire-Rathdown",
-    "TravelMeans":"Bus, minibus or coach",
+    "TravelType":"Bus, minibus or coach",
     "NumPeople":13908
   },
   {
     "AreaCode":"C06",
     "AreaType":"CTY",
     "Area":"Kildare",
-    "TravelMeans":"Bus, minibus or coach",
+    "TravelType":"Bus, minibus or coach",
     "NumPeople":11489
   },
   {
     "AreaCode":"C07",
     "AreaType":"CTY",
     "Area":"Kilkenny",
-    "TravelMeans":"Bus, minibus or coach",
+    "TravelType":"Bus, minibus or coach",
     "NumPeople":4760
   },
   {
     "AreaCode":"C08",
     "AreaType":"CTY",
     "Area":"Laois",
-    "TravelMeans":"Bus, minibus or coach",
+    "TravelType":"Bus, minibus or coach",
     "NumPeople":3776
   },
   {
     "AreaCode":"C09",
     "AreaType":"CTY",
     "Area":"Longford",
-    "TravelMeans":"Bus, minibus or coach",
+    "TravelType":"Bus, minibus or coach",
     "NumPeople":2165
   },
   {
     "AreaCode":"C10",
     "AreaType":"CTY",
     "Area":"Louth",
-    "TravelMeans":"Bus, minibus or coach",
+    "TravelType":"Bus, minibus or coach",
     "NumPeople":7067
   },
   {
     "AreaCode":"C11",
     "AreaType":"CTY",
     "Area":"Meath",
-    "TravelMeans":"Bus, minibus or coach",
+    "TravelType":"Bus, minibus or coach",
     "NumPeople":12236
   },
   {
     "AreaCode":"C12",
     "AreaType":"CTY",
     "Area":"Offaly",
-    "TravelMeans":"Bus, minibus or coach",
+    "TravelType":"Bus, minibus or coach",
     "NumPeople":4081
   },
   {
     "AreaCode":"C13",
     "AreaType":"CTY",
     "Area":"Westmeath",
-    "TravelMeans":"Bus, minibus or coach",
+    "TravelType":"Bus, minibus or coach",
     "NumPeople":4477
   },
   {
     "AreaCode":"C14",
     "AreaType":"CTY",
     "Area":"Wexford",
-    "TravelMeans":"Bus, minibus or coach",
+    "TravelType":"Bus, minibus or coach",
     "NumPeople":7408
   },
   {
     "AreaCode":"C15",
     "AreaType":"CTY",
     "Area":"Wicklow",
-    "TravelMeans":"Bus, minibus or coach",
+    "TravelType":"Bus, minibus or coach",
     "NumPeople":7535
   },
   {
     "AreaCode":"C16",
     "AreaType":"CTY",
     "Area":"Clare",
-    "TravelMeans":"Bus, minibus or coach",
+    "TravelType":"Bus, minibus or coach",
     "NumPeople":4744
   },
   {
     "AreaCode":"C17",
     "AreaType":"CTY",
     "Area":"Cork City",
-    "TravelMeans":"Bus, minibus or coach",
+    "TravelType":"Bus, minibus or coach",
     "NumPeople":5972
   },
   {
     "AreaCode":"C18",
     "AreaType":"CTY",
     "Area":"Cork",
-    "TravelMeans":"Bus, minibus or coach",
+    "TravelType":"Bus, minibus or coach",
     "NumPeople":18562
   },
   {
     "AreaCode":"C19",
     "AreaType":"CTY",
     "Area":"Kerry",
-    "TravelMeans":"Bus, minibus or coach",
+    "TravelType":"Bus, minibus or coach",
     "NumPeople":7200
   },
   {
     "AreaCode":"C20",
     "AreaType":"CTY",
     "Area":"Limerick City",
-    "TravelMeans":"Bus, minibus or coach",
+    "TravelType":"Bus, minibus or coach",
     "NumPeople":2084
   },
   {
     "AreaCode":"C21",
     "AreaType":"CTY",
     "Area":"Limerick",
-    "TravelMeans":"Bus, minibus or coach",
+    "TravelType":"Bus, minibus or coach",
     "NumPeople":5917
   },
   {
     "AreaCode":"C22",
     "AreaType":"CTY",
     "Area":"Tipperary North",
-    "TravelMeans":"Bus, minibus or coach",
+    "TravelType":"Bus, minibus or coach",
     "NumPeople":2851
   },
   {
     "AreaCode":"C23",
     "AreaType":"CTY",
     "Area":"Tipperary South",
-    "TravelMeans":"Bus, minibus or coach",
+    "TravelType":"Bus, minibus or coach",
     "NumPeople":4081
   },
   {
     "AreaCode":"C24",
     "AreaType":"CTY",
     "Area":"Waterford City",
-    "TravelMeans":"Bus, minibus or coach",
+    "TravelType":"Bus, minibus or coach",
     "NumPeople":1266
   },
   {
     "AreaCode":"C25",
     "AreaType":"CTY",
     "Area":"Waterford",
-    "TravelMeans":"Bus, minibus or coach",
+    "TravelType":"Bus, minibus or coach",
     "NumPeople":3204
   },
   {
     "AreaCode":"C26",
     "AreaType":"CTY",
     "Area":"Galway City",
-    "TravelMeans":"Bus, minibus or coach",
+    "TravelType":"Bus, minibus or coach",
     "NumPeople":3930
   },
   {
     "AreaCode":"C27",
     "AreaType":"CTY",
     "Area":"Galway",
-    "TravelMeans":"Bus, minibus or coach",
+    "TravelType":"Bus, minibus or coach",
     "NumPeople":10249
   },
   {
     "AreaCode":"C28",
     "AreaType":"CTY",
     "Area":"Leitrim",
-    "TravelMeans":"Bus, minibus or coach",
+    "TravelType":"Bus, minibus or coach",
     "NumPeople":2197
   },
   {
     "AreaCode":"C29",
     "AreaType":"CTY",
     "Area":"Mayo",
-    "TravelMeans":"Bus, minibus or coach",
+    "TravelType":"Bus, minibus or coach",
     "NumPeople":7095
   },
   {
     "AreaCode":"C30",
     "AreaType":"CTY",
     "Area":"Roscommon",
-    "TravelMeans":"Bus, minibus or coach",
+    "TravelType":"Bus, minibus or coach",
     "NumPeople":3421
   },
   {
     "AreaCode":"C31",
     "AreaType":"CTY",
     "Area":"Sligo",
-    "TravelMeans":"Bus, minibus or coach",
+    "TravelType":"Bus, minibus or coach",
     "NumPeople":3291
   },
   {
     "AreaCode":"C32",
     "AreaType":"CTY",
     "Area":"Cavan",
-    "TravelMeans":"Bus, minibus or coach",
+    "TravelType":"Bus, minibus or coach",
     "NumPeople":5517
   },
   {
     "AreaCode":"C33",
     "AreaType":"CTY",
     "Area":"Donegal",
-    "TravelMeans":"Bus, minibus or coach",
+    "TravelType":"Bus, minibus or coach",
     "NumPeople":12849
   },
   {
     "AreaCode":"C34",
     "AreaType":"CTY",
     "Area":"Monaghan",
-    "TravelMeans":"Bus, minibus or coach",
+    "TravelType":"Bus, minibus or coach",
     "NumPeople":4231
   },
   {
     "AreaCode":"C01",
     "AreaType":"CTY",
     "Area":"Carlow",
-    "TravelMeans":"Train, DART or LUAS",
+    "TravelType":"Train, DART or LUAS",
     "NumPeople":227
   },
   {
     "AreaCode":"C02",
     "AreaType":"CTY",
     "Area":"Dublin City",
-    "TravelMeans":"Train, DART or LUAS",
+    "TravelType":"Train, DART or LUAS",
     "NumPeople":18175
   },
   {
     "AreaCode":"C03",
     "AreaType":"CTY",
     "Area":"South Dublin",
-    "TravelMeans":"Train, DART or LUAS",
+    "TravelType":"Train, DART or LUAS",
     "NumPeople":3152
   },
   {
     "AreaCode":"C04",
     "AreaType":"CTY",
     "Area":"Fingal",
-    "TravelMeans":"Train, DART or LUAS",
+    "TravelType":"Train, DART or LUAS",
     "NumPeople":14753
   },
   {
     "AreaCode":"C05",
     "AreaType":"CTY",
     "Area":"Dún Laoghaire-Rathdown",
-    "TravelMeans":"Train, DART or LUAS",
+    "TravelType":"Train, DART or LUAS",
     "NumPeople":15570
   },
   {
     "AreaCode":"C06",
     "AreaType":"CTY",
     "Area":"Kildare",
-    "TravelMeans":"Train, DART or LUAS",
+    "TravelType":"Train, DART or LUAS",
     "NumPeople":5449
   },
   {
     "AreaCode":"C07",
     "AreaType":"CTY",
     "Area":"Kilkenny",
-    "TravelMeans":"Train, DART or LUAS",
+    "TravelType":"Train, DART or LUAS",
     "NumPeople":213
   },
   {
     "AreaCode":"C08",
     "AreaType":"CTY",
     "Area":"Laois",
-    "TravelMeans":"Train, DART or LUAS",
+    "TravelType":"Train, DART or LUAS",
     "NumPeople":910
   },
   {
     "AreaCode":"C09",
     "AreaType":"CTY",
     "Area":"Longford",
-    "TravelMeans":"Train, DART or LUAS",
+    "TravelType":"Train, DART or LUAS",
     "NumPeople":216
   },
   {
     "AreaCode":"C10",
     "AreaType":"CTY",
     "Area":"Louth",
-    "TravelMeans":"Train, DART or LUAS",
+    "TravelType":"Train, DART or LUAS",
     "NumPeople":1206
   },
   {
     "AreaCode":"C11",
     "AreaType":"CTY",
     "Area":"Meath",
-    "TravelMeans":"Train, DART or LUAS",
+    "TravelType":"Train, DART or LUAS",
     "NumPeople":1631
   },
   {
     "AreaCode":"C12",
     "AreaType":"CTY",
     "Area":"Offaly",
-    "TravelMeans":"Train, DART or LUAS",
+    "TravelType":"Train, DART or LUAS",
     "NumPeople":372
   },
   {
     "AreaCode":"C13",
     "AreaType":"CTY",
     "Area":"Westmeath",
-    "TravelMeans":"Train, DART or LUAS",
+    "TravelType":"Train, DART or LUAS",
     "NumPeople":526
   },
   {
     "AreaCode":"C14",
     "AreaType":"CTY",
     "Area":"Wexford",
-    "TravelMeans":"Train, DART or LUAS",
+    "TravelType":"Train, DART or LUAS",
     "NumPeople":224
   },
   {
     "AreaCode":"C15",
     "AreaType":"CTY",
     "Area":"Wicklow",
-    "TravelMeans":"Train, DART or LUAS",
+    "TravelType":"Train, DART or LUAS",
     "NumPeople":4190
   },
   {
     "AreaCode":"C16",
     "AreaType":"CTY",
     "Area":"Clare",
-    "TravelMeans":"Train, DART or LUAS",
+    "TravelType":"Train, DART or LUAS",
     "NumPeople":235
   },
   {
     "AreaCode":"C17",
     "AreaType":"CTY",
     "Area":"Cork City",
-    "TravelMeans":"Train, DART or LUAS",
+    "TravelType":"Train, DART or LUAS",
     "NumPeople":218
   },
   {
     "AreaCode":"C18",
     "AreaType":"CTY",
     "Area":"Cork",
-    "TravelMeans":"Train, DART or LUAS",
+    "TravelType":"Train, DART or LUAS",
     "NumPeople":1562
   },
   {
     "AreaCode":"C19",
     "AreaType":"CTY",
     "Area":"Kerry",
-    "TravelMeans":"Train, DART or LUAS",
+    "TravelType":"Train, DART or LUAS",
     "NumPeople":142
   },
   {
     "AreaCode":"C20",
     "AreaType":"CTY",
     "Area":"Limerick City",
-    "TravelMeans":"Train, DART or LUAS",
+    "TravelType":"Train, DART or LUAS",
     "NumPeople":51
   },
   {
     "AreaCode":"C21",
     "AreaType":"CTY",
     "Area":"Limerick",
-    "TravelMeans":"Train, DART or LUAS",
+    "TravelType":"Train, DART or LUAS",
     "NumPeople":139
   },
   {
     "AreaCode":"C22",
     "AreaType":"CTY",
     "Area":"Tipperary North",
-    "TravelMeans":"Train, DART or LUAS",
+    "TravelType":"Train, DART or LUAS",
     "NumPeople":234
   },
   {
     "AreaCode":"C23",
     "AreaType":"CTY",
     "Area":"Tipperary South",
-    "TravelMeans":"Train, DART or LUAS",
+    "TravelType":"Train, DART or LUAS",
     "NumPeople":174
   },
   {
     "AreaCode":"C24",
     "AreaType":"CTY",
     "Area":"Waterford City",
-    "TravelMeans":"Train, DART or LUAS",
+    "TravelType":"Train, DART or LUAS",
     "NumPeople":50
   },
   {
     "AreaCode":"C25",
     "AreaType":"CTY",
     "Area":"Waterford",
-    "TravelMeans":"Train, DART or LUAS",
+    "TravelType":"Train, DART or LUAS",
     "NumPeople":46
   },
   {
     "AreaCode":"C26",
     "AreaType":"CTY",
     "Area":"Galway City",
-    "TravelMeans":"Train, DART or LUAS",
+    "TravelType":"Train, DART or LUAS",
     "NumPeople":167
   },
   {
     "AreaCode":"C27",
     "AreaType":"CTY",
     "Area":"Galway",
-    "TravelMeans":"Train, DART or LUAS",
+    "TravelType":"Train, DART or LUAS",
     "NumPeople":400
   },
   {
     "AreaCode":"C28",
     "AreaType":"CTY",
     "Area":"Leitrim",
-    "TravelMeans":"Train, DART or LUAS",
+    "TravelType":"Train, DART or LUAS",
     "NumPeople":79
   },
   {
     "AreaCode":"C29",
     "AreaType":"CTY",
     "Area":"Mayo",
-    "TravelMeans":"Train, DART or LUAS",
+    "TravelType":"Train, DART or LUAS",
     "NumPeople":134
   },
   {
     "AreaCode":"C30",
     "AreaType":"CTY",
     "Area":"Roscommon",
-    "TravelMeans":"Train, DART or LUAS",
+    "TravelType":"Train, DART or LUAS",
     "NumPeople":185
   },
   {
     "AreaCode":"C31",
     "AreaType":"CTY",
     "Area":"Sligo",
-    "TravelMeans":"Train, DART or LUAS",
+    "TravelType":"Train, DART or LUAS",
     "NumPeople":114
   },
   {
     "AreaCode":"C32",
     "AreaType":"CTY",
     "Area":"Cavan",
-    "TravelMeans":"Train, DART or LUAS",
+    "TravelType":"Train, DART or LUAS",
     "NumPeople":57
   },
   {
     "AreaCode":"C33",
     "AreaType":"CTY",
     "Area":"Donegal",
-    "TravelMeans":"Train, DART or LUAS",
+    "TravelType":"Train, DART or LUAS",
     "NumPeople":108
   },
   {
     "AreaCode":"C34",
     "AreaType":"CTY",
     "Area":"Monaghan",
-    "TravelMeans":"Train, DART or LUAS",
+    "TravelType":"Train, DART or LUAS",
     "NumPeople":67
   },
   {
     "AreaCode":"C01",
     "AreaType":"CTY",
     "Area":"Carlow",
-    "TravelMeans":"Motorcycle or scooter",
+    "TravelType":"Motorcycle or scooter",
     "NumPeople":59
   },
   {
     "AreaCode":"C02",
     "AreaType":"CTY",
     "Area":"Dublin City",
-    "TravelMeans":"Motorcycle or scooter",
+    "TravelType":"Motorcycle or scooter",
     "NumPeople":1944
   },
   {
     "AreaCode":"C03",
     "AreaType":"CTY",
     "Area":"South Dublin",
-    "TravelMeans":"Motorcycle or scooter",
+    "TravelType":"Motorcycle or scooter",
     "NumPeople":1239
   },
   {
     "AreaCode":"C04",
     "AreaType":"CTY",
     "Area":"Fingal",
-    "TravelMeans":"Motorcycle or scooter",
+    "TravelType":"Motorcycle or scooter",
     "NumPeople":1007
   },
   {
     "AreaCode":"C05",
     "AreaType":"CTY",
     "Area":"Dún Laoghaire-Rathdown",
-    "TravelMeans":"Motorcycle or scooter",
+    "TravelType":"Motorcycle or scooter",
     "NumPeople":935
   },
   {
     "AreaCode":"C06",
     "AreaType":"CTY",
     "Area":"Kildare",
-    "TravelMeans":"Motorcycle or scooter",
+    "TravelType":"Motorcycle or scooter",
     "NumPeople":481
   },
   {
     "AreaCode":"C07",
     "AreaType":"CTY",
     "Area":"Kilkenny",
-    "TravelMeans":"Motorcycle or scooter",
+    "TravelType":"Motorcycle or scooter",
     "NumPeople":108
   },
   {
     "AreaCode":"C08",
     "AreaType":"CTY",
     "Area":"Laois",
-    "TravelMeans":"Motorcycle or scooter",
+    "TravelType":"Motorcycle or scooter",
     "NumPeople":52
   },
   {
     "AreaCode":"C09",
     "AreaType":"CTY",
     "Area":"Longford",
-    "TravelMeans":"Motorcycle or scooter",
+    "TravelType":"Motorcycle or scooter",
     "NumPeople":20
   },
   {
     "AreaCode":"C10",
     "AreaType":"CTY",
     "Area":"Louth",
-    "TravelMeans":"Motorcycle or scooter",
+    "TravelType":"Motorcycle or scooter",
     "NumPeople":132
   },
   {
     "AreaCode":"C11",
     "AreaType":"CTY",
     "Area":"Meath",
-    "TravelMeans":"Motorcycle or scooter",
+    "TravelType":"Motorcycle or scooter",
     "NumPeople":330
   },
   {
     "AreaCode":"C12",
     "AreaType":"CTY",
     "Area":"Offaly",
-    "TravelMeans":"Motorcycle or scooter",
+    "TravelType":"Motorcycle or scooter",
     "NumPeople":64
   },
   {
     "AreaCode":"C13",
     "AreaType":"CTY",
     "Area":"Westmeath",
-    "TravelMeans":"Motorcycle or scooter",
+    "TravelType":"Motorcycle or scooter",
     "NumPeople":88
   },
   {
     "AreaCode":"C14",
     "AreaType":"CTY",
     "Area":"Wexford",
-    "TravelMeans":"Motorcycle or scooter",
+    "TravelType":"Motorcycle or scooter",
     "NumPeople":141
   },
   {
     "AreaCode":"C15",
     "AreaType":"CTY",
     "Area":"Wicklow",
-    "TravelMeans":"Motorcycle or scooter",
+    "TravelType":"Motorcycle or scooter",
     "NumPeople":309
   },
   {
     "AreaCode":"C16",
     "AreaType":"CTY",
     "Area":"Clare",
-    "TravelMeans":"Motorcycle or scooter",
+    "TravelType":"Motorcycle or scooter",
     "NumPeople":116
   },
   {
     "AreaCode":"C17",
     "AreaType":"CTY",
     "Area":"Cork City",
-    "TravelMeans":"Motorcycle or scooter",
+    "TravelType":"Motorcycle or scooter",
     "NumPeople":311
   },
   {
     "AreaCode":"C18",
     "AreaType":"CTY",
     "Area":"Cork",
-    "TravelMeans":"Motorcycle or scooter",
+    "TravelType":"Motorcycle or scooter",
     "NumPeople":656
   },
   {
     "AreaCode":"C19",
     "AreaType":"CTY",
     "Area":"Kerry",
-    "TravelMeans":"Motorcycle or scooter",
+    "TravelType":"Motorcycle or scooter",
     "NumPeople":134
   },
   {
     "AreaCode":"C20",
     "AreaType":"CTY",
     "Area":"Limerick City",
-    "TravelMeans":"Motorcycle or scooter",
+    "TravelType":"Motorcycle or scooter",
     "NumPeople":73
   },
   {
     "AreaCode":"C21",
     "AreaType":"CTY",
     "Area":"Limerick",
-    "TravelMeans":"Motorcycle or scooter",
+    "TravelType":"Motorcycle or scooter",
     "NumPeople":134
   },
   {
     "AreaCode":"C22",
     "AreaType":"CTY",
     "Area":"Tipperary North",
-    "TravelMeans":"Motorcycle or scooter",
+    "TravelType":"Motorcycle or scooter",
     "NumPeople":61
   },
   {
     "AreaCode":"C23",
     "AreaType":"CTY",
     "Area":"Tipperary South",
-    "TravelMeans":"Motorcycle or scooter",
+    "TravelType":"Motorcycle or scooter",
     "NumPeople":100
   },
   {
     "AreaCode":"C24",
     "AreaType":"CTY",
     "Area":"Waterford City",
-    "TravelMeans":"Motorcycle or scooter",
+    "TravelType":"Motorcycle or scooter",
     "NumPeople":80
   },
   {
     "AreaCode":"C25",
     "AreaType":"CTY",
     "Area":"Waterford",
-    "TravelMeans":"Motorcycle or scooter",
+    "TravelType":"Motorcycle or scooter",
     "NumPeople":88
   },
   {
     "AreaCode":"C26",
     "AreaType":"CTY",
     "Area":"Galway City",
-    "TravelMeans":"Motorcycle or scooter",
+    "TravelType":"Motorcycle or scooter",
     "NumPeople":127
   },
   {
     "AreaCode":"C27",
     "AreaType":"CTY",
     "Area":"Galway",
-    "TravelMeans":"Motorcycle or scooter",
+    "TravelType":"Motorcycle or scooter",
     "NumPeople":161
   },
   {
     "AreaCode":"C28",
     "AreaType":"CTY",
     "Area":"Leitrim",
-    "TravelMeans":"Motorcycle or scooter",
+    "TravelType":"Motorcycle or scooter",
     "NumPeople":24
   },
   {
     "AreaCode":"C29",
     "AreaType":"CTY",
     "Area":"Mayo",
-    "TravelMeans":"Motorcycle or scooter",
+    "TravelType":"Motorcycle or scooter",
     "NumPeople":77
   },
   {
     "AreaCode":"C30",
     "AreaType":"CTY",
     "Area":"Roscommon",
-    "TravelMeans":"Motorcycle or scooter",
+    "TravelType":"Motorcycle or scooter",
     "NumPeople":52
   },
   {
     "AreaCode":"C31",
     "AreaType":"CTY",
     "Area":"Sligo",
-    "TravelMeans":"Motorcycle or scooter",
+    "TravelType":"Motorcycle or scooter",
     "NumPeople":66
   },
   {
     "AreaCode":"C32",
     "AreaType":"CTY",
     "Area":"Cavan",
-    "TravelMeans":"Motorcycle or scooter",
+    "TravelType":"Motorcycle or scooter",
     "NumPeople":37
   },
   {
     "AreaCode":"C33",
     "AreaType":"CTY",
     "Area":"Donegal",
-    "TravelMeans":"Motorcycle or scooter",
+    "TravelType":"Motorcycle or scooter",
     "NumPeople":78
   },
   {
     "AreaCode":"C34",
     "AreaType":"CTY",
     "Area":"Monaghan",
-    "TravelMeans":"Motorcycle or scooter",
+    "TravelType":"Motorcycle or scooter",
     "NumPeople":28
   },
   {
     "AreaCode":"C01",
     "AreaType":"CTY",
     "Area":"Carlow",
-    "TravelMeans":"Car driver",
+    "TravelType":"Car driver",
     "NumPeople":13250
   },
   {
     "AreaCode":"C02",
     "AreaType":"CTY",
     "Area":"Dublin City",
-    "TravelMeans":"Car driver",
+    "TravelType":"Car driver",
     "NumPeople":82619
   },
   {
     "AreaCode":"C03",
     "AreaType":"CTY",
     "Area":"South Dublin",
-    "TravelMeans":"Car driver",
+    "TravelType":"Car driver",
     "NumPeople":68785
   },
   {
     "AreaCode":"C04",
     "AreaType":"CTY",
     "Area":"Fingal",
-    "TravelMeans":"Car driver",
+    "TravelType":"Car driver",
     "NumPeople":72058
   },
   {
     "AreaCode":"C05",
     "AreaType":"CTY",
     "Area":"Dún Laoghaire-Rathdown",
-    "TravelMeans":"Car driver",
+    "TravelType":"Car driver",
     "NumPeople":49525
   },
   {
     "AreaCode":"C06",
     "AreaType":"CTY",
     "Area":"Kildare",
-    "TravelMeans":"Car driver",
+    "TravelType":"Car driver",
     "NumPeople":58387
   },
   {
     "AreaCode":"C07",
     "AreaType":"CTY",
     "Area":"Kilkenny",
-    "TravelMeans":"Car driver",
+    "TravelType":"Car driver",
     "NumPeople":25390
   },
   {
     "AreaCode":"C08",
     "AreaType":"CTY",
     "Area":"Laois",
-    "TravelMeans":"Car driver",
+    "TravelType":"Car driver",
     "NumPeople":20223
   },
   {
     "AreaCode":"C09",
     "AreaType":"CTY",
     "Area":"Longford",
-    "TravelMeans":"Car driver",
+    "TravelType":"Car driver",
     "NumPeople":9094
   },
   {
     "AreaCode":"C10",
     "AreaType":"CTY",
     "Area":"Louth",
-    "TravelMeans":"Car driver",
+    "TravelType":"Car driver",
     "NumPeople":28539
   },
   {
     "AreaCode":"C11",
     "AreaType":"CTY",
     "Area":"Meath",
-    "TravelMeans":"Car driver",
+    "TravelType":"Car driver",
     "NumPeople":51710
   },
   {
     "AreaCode":"C12",
     "AreaType":"CTY",
     "Area":"Offaly",
-    "TravelMeans":"Car driver",
+    "TravelType":"Car driver",
     "NumPeople":18391
   },
   {
     "AreaCode":"C13",
     "AreaType":"CTY",
     "Area":"Westmeath",
-    "TravelMeans":"Car driver",
+    "TravelType":"Car driver",
     "NumPeople":21588
   },
   {
     "AreaCode":"C14",
     "AreaType":"CTY",
     "Area":"Wexford",
-    "TravelMeans":"Car driver",
+    "TravelType":"Car driver",
     "NumPeople":34458
   },
   {
     "AreaCode":"C15",
     "AreaType":"CTY",
     "Area":"Wicklow",
-    "TravelMeans":"Car driver",
+    "TravelType":"Car driver",
     "NumPeople":34403
   },
   {
     "AreaCode":"C16",
     "AreaType":"CTY",
     "Area":"Clare",
-    "TravelMeans":"Car driver",
+    "TravelType":"Car driver",
     "NumPeople":31852
   },
   {
     "AreaCode":"C17",
     "AreaType":"CTY",
     "Area":"Cork City",
-    "TravelMeans":"Car driver",
+    "TravelType":"Car driver",
     "NumPeople":22624
   },
   {
     "AreaCode":"C18",
     "AreaType":"CTY",
     "Area":"Cork",
-    "TravelMeans":"Car driver",
+    "TravelType":"Car driver",
     "NumPeople":118212
   },
   {
     "AreaCode":"C19",
     "AreaType":"CTY",
     "Area":"Kerry",
-    "TravelMeans":"Car driver",
+    "TravelType":"Car driver",
     "NumPeople":35847
   },
   {
     "AreaCode":"C20",
     "AreaType":"CTY",
     "Area":"Limerick City",
-    "TravelMeans":"Car driver",
+    "TravelType":"Car driver",
     "NumPeople":10757
   },
   {
     "AreaCode":"C21",
     "AreaType":"CTY",
     "Area":"Limerick",
-    "TravelMeans":"Car driver",
+    "TravelType":"Car driver",
     "NumPeople":39201
   },
   {
     "AreaCode":"C22",
     "AreaType":"CTY",
     "Area":"Tipperary North",
-    "TravelMeans":"Car driver",
+    "TravelType":"Car driver",
     "NumPeople":18320
   },
   {
     "AreaCode":"C23",
     "AreaType":"CTY",
     "Area":"Tipperary South",
-    "TravelMeans":"Car driver",
+    "TravelType":"Car driver",
     "NumPeople":22606
   },
   {
     "AreaCode":"C24",
     "AreaType":"CTY",
     "Area":"Waterford City",
-    "TravelMeans":"Car driver",
+    "TravelType":"Car driver",
     "NumPeople":11123
   },
   {
     "AreaCode":"C25",
     "AreaType":"CTY",
     "Area":"Waterford",
-    "TravelMeans":"Car driver",
+    "TravelType":"Car driver",
     "NumPeople":18267
   },
   {
     "AreaCode":"C26",
     "AreaType":"CTY",
     "Area":"Galway City",
-    "TravelMeans":"Car driver",
+    "TravelType":"Car driver",
     "NumPeople":18798
   },
   {
     "AreaCode":"C27",
     "AreaType":"CTY",
     "Area":"Galway",
-    "TravelMeans":"Car driver",
+    "TravelType":"Car driver",
     "NumPeople":48159
   },
   {
     "AreaCode":"C28",
     "AreaType":"CTY",
     "Area":"Leitrim",
-    "TravelMeans":"Car driver",
+    "TravelType":"Car driver",
     "NumPeople":8115
   },
   {
     "AreaCode":"C29",
     "AreaType":"CTY",
     "Area":"Mayo",
-    "TravelMeans":"Car driver",
+    "TravelType":"Car driver",
     "NumPeople":32421
   },
   {
     "AreaCode":"C30",
     "AreaType":"CTY",
     "Area":"Roscommon",
-    "TravelMeans":"Car driver",
+    "TravelType":"Car driver",
     "NumPeople":16823
   },
   {
     "AreaCode":"C31",
     "AreaType":"CTY",
     "Area":"Sligo",
-    "TravelMeans":"Car driver",
+    "TravelType":"Car driver",
     "NumPeople":17510
   },
   {
     "AreaCode":"C32",
     "AreaType":"CTY",
     "Area":"Cavan",
-    "TravelMeans":"Car driver",
+    "TravelType":"Car driver",
     "NumPeople":17921
   },
   {
     "AreaCode":"C33",
     "AreaType":"CTY",
     "Area":"Donegal",
-    "TravelMeans":"Car driver",
+    "TravelType":"Car driver",
     "NumPeople":35637
   },
   {
     "AreaCode":"C34",
     "AreaType":"CTY",
     "Area":"Monaghan",
-    "TravelMeans":"Car driver",
+    "TravelType":"Car driver",
     "NumPeople":14783
   },
   {
     "AreaCode":"C01",
     "AreaType":"CTY",
     "Area":"Carlow",
-    "TravelMeans":"Car passenger",
+    "TravelType":"Car passenger",
     "NumPeople":6975
   },
   {
     "AreaCode":"C02",
     "AreaType":"CTY",
     "Area":"Dublin City",
-    "TravelMeans":"Car passenger",
+    "TravelType":"Car passenger",
     "NumPeople":25987
   },
   {
     "AreaCode":"C03",
     "AreaType":"CTY",
     "Area":"South Dublin",
-    "TravelMeans":"Car passenger",
+    "TravelType":"Car passenger",
     "NumPeople":24468
   },
   {
     "AreaCode":"C04",
     "AreaType":"CTY",
     "Area":"Fingal",
-    "TravelMeans":"Car passenger",
+    "TravelType":"Car passenger",
     "NumPeople":25134
   },
   {
     "AreaCode":"C05",
     "AreaType":"CTY",
     "Area":"Dún Laoghaire-Rathdown",
-    "TravelMeans":"Car passenger",
+    "TravelType":"Car passenger",
     "NumPeople":19569
   },
   {
     "AreaCode":"C06",
     "AreaType":"CTY",
     "Area":"Kildare",
-    "TravelMeans":"Car passenger",
+    "TravelType":"Car passenger",
     "NumPeople":25155
   },
   {
     "AreaCode":"C07",
     "AreaType":"CTY",
     "Area":"Kilkenny",
-    "TravelMeans":"Car passenger",
+    "TravelType":"Car passenger",
     "NumPeople":11938
   },
   {
     "AreaCode":"C08",
     "AreaType":"CTY",
     "Area":"Laois",
-    "TravelMeans":"Car passenger",
+    "TravelType":"Car passenger",
     "NumPeople":10684
   },
   {
     "AreaCode":"C09",
     "AreaType":"CTY",
     "Area":"Longford",
-    "TravelMeans":"Car passenger",
+    "TravelType":"Car passenger",
     "NumPeople":4839
   },
   {
     "AreaCode":"C10",
     "AreaType":"CTY",
     "Area":"Louth",
-    "TravelMeans":"Car passenger",
+    "TravelType":"Car passenger",
     "NumPeople":15085
   },
   {
     "AreaCode":"C11",
     "AreaType":"CTY",
     "Area":"Meath",
-    "TravelMeans":"Car passenger",
+    "TravelType":"Car passenger",
     "NumPeople":21097
   },
   {
     "AreaCode":"C12",
     "AreaType":"CTY",
     "Area":"Offaly",
-    "TravelMeans":"Car passenger",
+    "TravelType":"Car passenger",
     "NumPeople":9870
   },
   {
     "AreaCode":"C13",
     "AreaType":"CTY",
     "Area":"Westmeath",
-    "TravelMeans":"Car passenger",
+    "TravelType":"Car passenger",
     "NumPeople":11039
   },
   {
     "AreaCode":"C14",
     "AreaType":"CTY",
     "Area":"Wexford",
-    "TravelMeans":"Car passenger",
+    "TravelType":"Car passenger",
     "NumPeople":18399
   },
   {
     "AreaCode":"C15",
     "AreaType":"CTY",
     "Area":"Wicklow",
-    "TravelMeans":"Car passenger",
+    "TravelType":"Car passenger",
     "NumPeople":15881
   },
   {
     "AreaCode":"C16",
     "AreaType":"CTY",
     "Area":"Clare",
-    "TravelMeans":"Car passenger",
+    "TravelType":"Car passenger",
     "NumPeople":15909
   },
   {
     "AreaCode":"C17",
     "AreaType":"CTY",
     "Area":"Cork City",
-    "TravelMeans":"Car passenger",
+    "TravelType":"Car passenger",
     "NumPeople":10566
   },
   {
     "AreaCode":"C18",
     "AreaType":"CTY",
     "Area":"Cork",
-    "TravelMeans":"Car passenger",
+    "TravelType":"Car passenger",
     "NumPeople":55142
   },
   {
     "AreaCode":"C19",
     "AreaType":"CTY",
     "Area":"Kerry",
-    "TravelMeans":"Car passenger",
+    "TravelType":"Car passenger",
     "NumPeople":17706
   },
   {
     "AreaCode":"C20",
     "AreaType":"CTY",
     "Area":"Limerick City",
-    "TravelMeans":"Car passenger",
+    "TravelType":"Car passenger",
     "NumPeople":5279
   },
   {
     "AreaCode":"C21",
     "AreaType":"CTY",
     "Area":"Limerick",
-    "TravelMeans":"Car passenger",
+    "TravelType":"Car passenger",
     "NumPeople":18056
   },
   {
     "AreaCode":"C22",
     "AreaType":"CTY",
     "Area":"Tipperary North",
-    "TravelMeans":"Car passenger",
+    "TravelType":"Car passenger",
     "NumPeople":9416
   },
   {
     "AreaCode":"C23",
     "AreaType":"CTY",
     "Area":"Tipperary South",
-    "TravelMeans":"Car passenger",
+    "TravelType":"Car passenger",
     "NumPeople":11431
   },
   {
     "AreaCode":"C24",
     "AreaType":"CTY",
     "Area":"Waterford City",
-    "TravelMeans":"Car passenger",
+    "TravelType":"Car passenger",
     "NumPeople":6337
   },
   {
     "AreaCode":"C25",
     "AreaType":"CTY",
     "Area":"Waterford",
-    "TravelMeans":"Car passenger",
+    "TravelType":"Car passenger",
     "NumPeople":8955
   },
   {
     "AreaCode":"C26",
     "AreaType":"CTY",
     "Area":"Galway City",
-    "TravelMeans":"Car passenger",
+    "TravelType":"Car passenger",
     "NumPeople":8023
   },
   {
     "AreaCode":"C27",
     "AreaType":"CTY",
     "Area":"Galway",
-    "TravelMeans":"Car passenger",
+    "TravelType":"Car passenger",
     "NumPeople":23761
   },
   {
     "AreaCode":"C28",
     "AreaType":"CTY",
     "Area":"Leitrim",
-    "TravelMeans":"Car passenger",
+    "TravelType":"Car passenger",
     "NumPeople":3226
   },
   {
     "AreaCode":"C29",
     "AreaType":"CTY",
     "Area":"Mayo",
-    "TravelMeans":"Car passenger",
+    "TravelType":"Car passenger",
     "NumPeople":16592
   },
   {
     "AreaCode":"C30",
     "AreaType":"CTY",
     "Area":"Roscommon",
-    "TravelMeans":"Car passenger",
+    "TravelType":"Car passenger",
     "NumPeople":8198
   },
   {
     "AreaCode":"C31",
     "AreaType":"CTY",
     "Area":"Sligo",
-    "TravelMeans":"Car passenger",
+    "TravelType":"Car passenger",
     "NumPeople":7826
   },
   {
     "AreaCode":"C32",
     "AreaType":"CTY",
     "Area":"Cavan",
-    "TravelMeans":"Car passenger",
+    "TravelType":"Car passenger",
     "NumPeople":8749
   },
   {
     "AreaCode":"C33",
     "AreaType":"CTY",
     "Area":"Donegal",
-    "TravelMeans":"Car passenger",
+    "TravelType":"Car passenger",
     "NumPeople":19658
   },
   {
     "AreaCode":"C34",
     "AreaType":"CTY",
     "Area":"Monaghan",
-    "TravelMeans":"Car passenger",
+    "TravelType":"Car passenger",
     "NumPeople":7388
   },
   {
     "AreaCode":"C01",
     "AreaType":"CTY",
     "Area":"Carlow",
-    "TravelMeans":"Van",
+    "TravelType":"Van",
     "NumPeople":1773
   },
   {
     "AreaCode":"C02",
     "AreaType":"CTY",
     "Area":"Dublin City",
-    "TravelMeans":"Van",
+    "TravelType":"Van",
     "NumPeople":5231
   },
   {
     "AreaCode":"C03",
     "AreaType":"CTY",
     "Area":"South Dublin",
-    "TravelMeans":"Van",
+    "TravelType":"Van",
     "NumPeople":5128
   },
   {
     "AreaCode":"C04",
     "AreaType":"CTY",
     "Area":"Fingal",
-    "TravelMeans":"Van",
+    "TravelType":"Van",
     "NumPeople":4811
   },
   {
     "AreaCode":"C05",
     "AreaType":"CTY",
     "Area":"Dún Laoghaire-Rathdown",
-    "TravelMeans":"Van",
+    "TravelType":"Van",
     "NumPeople":2225
   },
   {
     "AreaCode":"C06",
     "AreaType":"CTY",
     "Area":"Kildare",
-    "TravelMeans":"Van",
+    "TravelType":"Van",
     "NumPeople":5457
   },
   {
     "AreaCode":"C07",
     "AreaType":"CTY",
     "Area":"Kilkenny",
-    "TravelMeans":"Van",
+    "TravelType":"Van",
     "NumPeople":2978
   },
   {
     "AreaCode":"C08",
     "AreaType":"CTY",
     "Area":"Laois",
-    "TravelMeans":"Van",
+    "TravelType":"Van",
     "NumPeople":2676
   },
   {
     "AreaCode":"C09",
     "AreaType":"CTY",
     "Area":"Longford",
-    "TravelMeans":"Van",
+    "TravelType":"Van",
     "NumPeople":1210
   },
   {
     "AreaCode":"C10",
     "AreaType":"CTY",
     "Area":"Louth",
-    "TravelMeans":"Van",
+    "TravelType":"Van",
     "NumPeople":3133
   },
   {
     "AreaCode":"C11",
     "AreaType":"CTY",
     "Area":"Meath",
-    "TravelMeans":"Van",
+    "TravelType":"Van",
     "NumPeople":5829
   },
   {
     "AreaCode":"C12",
     "AreaType":"CTY",
     "Area":"Offaly",
-    "TravelMeans":"Van",
+    "TravelType":"Van",
     "NumPeople":2561
   },
   {
     "AreaCode":"C13",
     "AreaType":"CTY",
     "Area":"Westmeath",
-    "TravelMeans":"Van",
+    "TravelType":"Van",
     "NumPeople":2558
   },
   {
     "AreaCode":"C14",
     "AreaType":"CTY",
     "Area":"Wexford",
-    "TravelMeans":"Van",
+    "TravelType":"Van",
     "NumPeople":4573
   },
   {
     "AreaCode":"C15",
     "AreaType":"CTY",
     "Area":"Wicklow",
-    "TravelMeans":"Van",
+    "TravelType":"Van",
     "NumPeople":3482
   },
   {
     "AreaCode":"C16",
     "AreaType":"CTY",
     "Area":"Clare",
-    "TravelMeans":"Van",
+    "TravelType":"Van",
     "NumPeople":3593
   },
   {
     "AreaCode":"C17",
     "AreaType":"CTY",
     "Area":"Cork City",
-    "TravelMeans":"Van",
+    "TravelType":"Van",
     "NumPeople":1500
   },
   {
     "AreaCode":"C18",
     "AreaType":"CTY",
     "Area":"Cork",
-    "TravelMeans":"Van",
+    "TravelType":"Van",
     "NumPeople":12875
   },
   {
     "AreaCode":"C19",
     "AreaType":"CTY",
     "Area":"Kerry",
-    "TravelMeans":"Van",
+    "TravelType":"Van",
     "NumPeople":5346
   },
   {
     "AreaCode":"C20",
     "AreaType":"CTY",
     "Area":"Limerick City",
-    "TravelMeans":"Van",
+    "TravelType":"Van",
     "NumPeople":698
   },
   {
     "AreaCode":"C21",
     "AreaType":"CTY",
     "Area":"Limerick",
-    "TravelMeans":"Van",
+    "TravelType":"Van",
     "NumPeople":4188
   },
   {
     "AreaCode":"C22",
     "AreaType":"CTY",
     "Area":"Tipperary North",
-    "TravelMeans":"Van",
+    "TravelType":"Van",
     "NumPeople":2239
   },
   {
     "AreaCode":"C23",
     "AreaType":"CTY",
     "Area":"Tipperary South",
-    "TravelMeans":"Van",
+    "TravelType":"Van",
     "NumPeople":2447
   },
   {
     "AreaCode":"C24",
     "AreaType":"CTY",
     "Area":"Waterford City",
-    "TravelMeans":"Van",
+    "TravelType":"Van",
     "NumPeople":690
   },
   {
     "AreaCode":"C25",
     "AreaType":"CTY",
     "Area":"Waterford",
-    "TravelMeans":"Van",
+    "TravelType":"Van",
     "NumPeople":1986
   },
   {
     "AreaCode":"C26",
     "AreaType":"CTY",
     "Area":"Galway City",
-    "TravelMeans":"Van",
+    "TravelType":"Van",
     "NumPeople":1066
   },
   {
     "AreaCode":"C27",
     "AreaType":"CTY",
     "Area":"Galway",
-    "TravelMeans":"Van",
+    "TravelType":"Van",
     "NumPeople":6334
   },
   {
     "AreaCode":"C28",
     "AreaType":"CTY",
     "Area":"Leitrim",
-    "TravelMeans":"Van",
+    "TravelType":"Van",
     "NumPeople":1240
   },
   {
     "AreaCode":"C29",
     "AreaType":"CTY",
     "Area":"Mayo",
-    "TravelMeans":"Van",
+    "TravelType":"Van",
     "NumPeople":5241
   },
   {
     "AreaCode":"C30",
     "AreaType":"CTY",
     "Area":"Roscommon",
-    "TravelMeans":"Van",
+    "TravelType":"Van",
     "NumPeople":2424
   },
   {
     "AreaCode":"C31",
     "AreaType":"CTY",
     "Area":"Sligo",
-    "TravelMeans":"Van",
+    "TravelType":"Van",
     "NumPeople":2135
   },
   {
     "AreaCode":"C32",
     "AreaType":"CTY",
     "Area":"Cavan",
-    "TravelMeans":"Van",
+    "TravelType":"Van",
     "NumPeople":2895
   },
   {
     "AreaCode":"C33",
     "AreaType":"CTY",
     "Area":"Donegal",
-    "TravelMeans":"Van",
+    "TravelType":"Van",
     "NumPeople":5785
   },
   {
     "AreaCode":"C34",
     "AreaType":"CTY",
     "Area":"Monaghan",
-    "TravelMeans":"Van",
+    "TravelType":"Van",
     "NumPeople":2684
   },
   {
     "AreaCode":"C01",
     "AreaType":"CTY",
     "Area":"Carlow",
-    "TravelMeans":"other",
+    "TravelType":"other",
     "NumPeople":1541
   },
   {
     "AreaCode":"C02",
     "AreaType":"CTY",
     "Area":"Dublin City",
-    "TravelMeans":"other",
+    "TravelType":"other",
     "NumPeople":5306
   },
   {
     "AreaCode":"C03",
     "AreaType":"CTY",
     "Area":"South Dublin",
-    "TravelMeans":"other",
+    "TravelType":"other",
     "NumPeople":2412
   },
   {
     "AreaCode":"C04",
     "AreaType":"CTY",
     "Area":"Fingal",
-    "TravelMeans":"other",
+    "TravelType":"other",
     "NumPeople":3506
   },
   {
     "AreaCode":"C05",
     "AreaType":"CTY",
     "Area":"Dún Laoghaire-Rathdown",
-    "TravelMeans":"other",
+    "TravelType":"other",
     "NumPeople":3764
   },
   {
     "AreaCode":"C06",
     "AreaType":"CTY",
     "Area":"Kildare",
-    "TravelMeans":"other",
+    "TravelType":"other",
     "NumPeople":4066
   },
   {
     "AreaCode":"C07",
     "AreaType":"CTY",
     "Area":"Kilkenny",
-    "TravelMeans":"other",
+    "TravelType":"other",
     "NumPeople":3386
   },
   {
     "AreaCode":"C08",
     "AreaType":"CTY",
     "Area":"Laois",
-    "TravelMeans":"other",
+    "TravelType":"other",
     "NumPeople":2508
   },
   {
     "AreaCode":"C09",
     "AreaType":"CTY",
     "Area":"Longford",
-    "TravelMeans":"other",
+    "TravelType":"other",
     "NumPeople":1187
   },
   {
     "AreaCode":"C10",
     "AreaType":"CTY",
     "Area":"Louth",
-    "TravelMeans":"other",
+    "TravelType":"other",
     "NumPeople":1893
   },
   {
     "AreaCode":"C11",
     "AreaType":"CTY",
     "Area":"Meath",
-    "TravelMeans":"other",
+    "TravelType":"other",
     "NumPeople":4206
   },
   {
     "AreaCode":"C12",
     "AreaType":"CTY",
     "Area":"Offaly",
-    "TravelMeans":"other",
+    "TravelType":"other",
     "NumPeople":2241
   },
   {
     "AreaCode":"C13",
     "AreaType":"CTY",
     "Area":"Westmeath",
-    "TravelMeans":"other",
+    "TravelType":"other",
     "NumPeople":2258
   },
   {
     "AreaCode":"C14",
     "AreaType":"CTY",
     "Area":"Wexford",
-    "TravelMeans":"other",
+    "TravelType":"other",
     "NumPeople":4668
   },
   {
     "AreaCode":"C15",
     "AreaType":"CTY",
     "Area":"Wicklow",
-    "TravelMeans":"other",
+    "TravelType":"other",
     "NumPeople":3624
   },
   {
     "AreaCode":"C16",
     "AreaType":"CTY",
     "Area":"Clare",
-    "TravelMeans":"other",
+    "TravelType":"other",
     "NumPeople":3551
   },
   {
     "AreaCode":"C17",
     "AreaType":"CTY",
     "Area":"Cork City",
-    "TravelMeans":"other",
+    "TravelType":"other",
     "NumPeople":998
   },
   {
     "AreaCode":"C18",
     "AreaType":"CTY",
     "Area":"Cork",
-    "TravelMeans":"other",
+    "TravelType":"other",
     "NumPeople":12462
   },
   {
     "AreaCode":"C19",
     "AreaType":"CTY",
     "Area":"Kerry",
-    "TravelMeans":"other",
+    "TravelType":"other",
     "NumPeople":4807
   },
   {
     "AreaCode":"C20",
     "AreaType":"CTY",
     "Area":"Limerick City",
-    "TravelMeans":"other",
+    "TravelType":"other",
     "NumPeople":490
   },
   {
     "AreaCode":"C21",
     "AreaType":"CTY",
     "Area":"Limerick",
-    "TravelMeans":"other",
+    "TravelType":"other",
     "NumPeople":4237
   },
   {
     "AreaCode":"C22",
     "AreaType":"CTY",
     "Area":"Tipperary North",
-    "TravelMeans":"other",
+    "TravelType":"other",
     "NumPeople":2691
   },
   {
     "AreaCode":"C23",
     "AreaType":"CTY",
     "Area":"Tipperary South",
-    "TravelMeans":"other",
+    "TravelType":"other",
     "NumPeople":2914
   },
   {
     "AreaCode":"C24",
     "AreaType":"CTY",
     "Area":"Waterford City",
-    "TravelMeans":"other",
+    "TravelType":"other",
     "NumPeople":413
   },
   {
     "AreaCode":"C25",
     "AreaType":"CTY",
     "Area":"Waterford",
-    "TravelMeans":"other",
+    "TravelType":"other",
     "NumPeople":2249
   },
   {
     "AreaCode":"C26",
     "AreaType":"CTY",
     "Area":"Galway City",
-    "TravelMeans":"other",
+    "TravelType":"other",
     "NumPeople":915
   },
   {
     "AreaCode":"C27",
     "AreaType":"CTY",
     "Area":"Galway",
-    "TravelMeans":"other",
+    "TravelType":"other",
     "NumPeople":5880
   },
   {
     "AreaCode":"C28",
     "AreaType":"CTY",
     "Area":"Leitrim",
-    "TravelMeans":"other",
+    "TravelType":"other",
     "NumPeople":1073
   },
   {
     "AreaCode":"C29",
     "AreaType":"CTY",
     "Area":"Mayo",
-    "TravelMeans":"other",
+    "TravelType":"other",
     "NumPeople":3635
   },
   {
     "AreaCode":"C30",
     "AreaType":"CTY",
     "Area":"Roscommon",
-    "TravelMeans":"other",
+    "TravelType":"other",
     "NumPeople":2170
   },
   {
     "AreaCode":"C31",
     "AreaType":"CTY",
     "Area":"Sligo",
-    "TravelMeans":"other",
+    "TravelType":"other",
     "NumPeople":1613
   },
   {
     "AreaCode":"C32",
     "AreaType":"CTY",
     "Area":"Cavan",
-    "TravelMeans":"other",
+    "TravelType":"other",
     "NumPeople":2397
   },
   {
     "AreaCode":"C33",
     "AreaType":"CTY",
     "Area":"Donegal",
-    "TravelMeans":"other",
+    "TravelType":"other",
     "NumPeople":3659
   },
   {
     "AreaCode":"C34",
     "AreaType":"CTY",
     "Area":"Monaghan",
-    "TravelMeans":"other",
+    "TravelType":"other",
     "NumPeople":2133
   },
   {
     "AreaCode":"C01",
     "AreaType":"CTY",
     "Area":"Carlow",
-    "TravelMeans":"not stated",
+    "TravelType":"not stated",
     "NumPeople":1164
   },
   {
     "AreaCode":"C02",
     "AreaType":"CTY",
     "Area":"Dublin City",
-    "TravelMeans":"not stated",
+    "TravelType":"not stated",
     "NumPeople":13352
   },
   {
     "AreaCode":"C03",
     "AreaType":"CTY",
     "Area":"South Dublin",
-    "TravelMeans":"not stated",
+    "TravelType":"not stated",
     "NumPeople":4914
   },
   {
     "AreaCode":"C04",
     "AreaType":"CTY",
     "Area":"Fingal",
-    "TravelMeans":"not stated",
+    "TravelType":"not stated",
     "NumPeople":5325
   },
   {
     "AreaCode":"C05",
     "AreaType":"CTY",
     "Area":"Dún Laoghaire-Rathdown",
-    "TravelMeans":"not stated",
+    "TravelType":"not stated",
     "NumPeople":2654
   },
   {
     "AreaCode":"C06",
     "AreaType":"CTY",
     "Area":"Kildare",
-    "TravelMeans":"not stated",
+    "TravelType":"not stated",
     "NumPeople":3442
   },
   {
     "AreaCode":"C07",
     "AreaType":"CTY",
     "Area":"Kilkenny",
-    "TravelMeans":"not stated",
+    "TravelType":"not stated",
     "NumPeople":1521
   },
   {
     "AreaCode":"C08",
     "AreaType":"CTY",
     "Area":"Laois",
-    "TravelMeans":"not stated",
+    "TravelType":"not stated",
     "NumPeople":2006
   },
   {
     "AreaCode":"C09",
     "AreaType":"CTY",
     "Area":"Longford",
-    "TravelMeans":"not stated",
+    "TravelType":"not stated",
     "NumPeople":874
   },
   {
     "AreaCode":"C10",
     "AreaType":"CTY",
     "Area":"Louth",
-    "TravelMeans":"not stated",
+    "TravelType":"not stated",
     "NumPeople":2167
   },
   {
     "AreaCode":"C11",
     "AreaType":"CTY",
     "Area":"Meath",
-    "TravelMeans":"not stated",
+    "TravelType":"not stated",
     "NumPeople":2981
   },
   {
     "AreaCode":"C12",
     "AreaType":"CTY",
     "Area":"Offaly",
-    "TravelMeans":"not stated",
+    "TravelType":"not stated",
     "NumPeople":1347
   },
   {
     "AreaCode":"C13",
     "AreaType":"CTY",
     "Area":"Westmeath",
-    "TravelMeans":"not stated",
+    "TravelType":"not stated",
     "NumPeople":1536
   },
   {
     "AreaCode":"C14",
     "AreaType":"CTY",
     "Area":"Wexford",
-    "TravelMeans":"not stated",
+    "TravelType":"not stated",
     "NumPeople":2309
   },
   {
     "AreaCode":"C15",
     "AreaType":"CTY",
     "Area":"Wicklow",
-    "TravelMeans":"not stated",
+    "TravelType":"not stated",
     "NumPeople":2084
   },
   {
     "AreaCode":"C16",
     "AreaType":"CTY",
     "Area":"Clare",
-    "TravelMeans":"not stated",
+    "TravelType":"not stated",
     "NumPeople":2526
   },
   {
     "AreaCode":"C17",
     "AreaType":"CTY",
     "Area":"Cork City",
-    "TravelMeans":"not stated",
+    "TravelType":"not stated",
     "NumPeople":2713
   },
   {
     "AreaCode":"C18",
     "AreaType":"CTY",
     "Area":"Cork",
-    "TravelMeans":"not stated",
+    "TravelType":"not stated",
     "NumPeople":7115
   },
   {
     "AreaCode":"C19",
     "AreaType":"CTY",
     "Area":"Kerry",
-    "TravelMeans":"not stated",
+    "TravelType":"not stated",
     "NumPeople":3288
   },
   {
     "AreaCode":"C20",
     "AreaType":"CTY",
     "Area":"Limerick City",
-    "TravelMeans":"not stated",
+    "TravelType":"not stated",
     "NumPeople":1296
   },
   {
     "AreaCode":"C21",
     "AreaType":"CTY",
     "Area":"Limerick",
-    "TravelMeans":"not stated",
+    "TravelType":"not stated",
     "NumPeople":2349
   },
   {
     "AreaCode":"C22",
     "AreaType":"CTY",
     "Area":"Tipperary North",
-    "TravelMeans":"not stated",
+    "TravelType":"not stated",
     "NumPeople":1315
   },
   {
     "AreaCode":"C23",
     "AreaType":"CTY",
     "Area":"Tipperary South",
-    "TravelMeans":"not stated",
+    "TravelType":"not stated",
     "NumPeople":1525
   },
   {
     "AreaCode":"C24",
     "AreaType":"CTY",
     "Area":"Waterford City",
-    "TravelMeans":"not stated",
+    "TravelType":"not stated",
     "NumPeople":1009
   },
   {
     "AreaCode":"C25",
     "AreaType":"CTY",
     "Area":"Waterford",
-    "TravelMeans":"not stated",
+    "TravelType":"not stated",
     "NumPeople":1004
   },
   {
     "AreaCode":"C26",
     "AreaType":"CTY",
     "Area":"Galway City",
-    "TravelMeans":"not stated",
+    "TravelType":"not stated",
     "NumPeople":1769
   },
   {
     "AreaCode":"C27",
     "AreaType":"CTY",
     "Area":"Galway",
-    "TravelMeans":"not stated",
+    "TravelType":"not stated",
     "NumPeople":3627
   },
   {
     "AreaCode":"C28",
     "AreaType":"CTY",
     "Area":"Leitrim",
-    "TravelMeans":"not stated",
+    "TravelType":"not stated",
     "NumPeople":729
   },
   {
     "AreaCode":"C29",
     "AreaType":"CTY",
     "Area":"Mayo",
-    "TravelMeans":"not stated",
+    "TravelType":"not stated",
     "NumPeople":3031
   },
   {
     "AreaCode":"C30",
     "AreaType":"CTY",
     "Area":"Roscommon",
-    "TravelMeans":"not stated",
+    "TravelType":"not stated",
     "NumPeople":1406
   },
   {
     "AreaCode":"C31",
     "AreaType":"CTY",
     "Area":"Sligo",
-    "TravelMeans":"not stated",
+    "TravelType":"not stated",
     "NumPeople":1564
   },
   {
     "AreaCode":"C32",
     "AreaType":"CTY",
     "Area":"Cavan",
-    "TravelMeans":"not stated",
+    "TravelType":"not stated",
     "NumPeople":1771
   },
   {
     "AreaCode":"C33",
     "AreaType":"CTY",
     "Area":"Donegal",
-    "TravelMeans":"not stated",
+    "TravelType":"not stated",
     "NumPeople":2922
   },
   {
     "AreaCode":"C34",
     "AreaType":"CTY",
     "Area":"Monaghan",
-    "TravelMeans":"not stated",
+    "TravelType":"not stated",
     "NumPeople":955
   },
   {
     "AreaCode":"C01",
     "AreaType":"CTY",
     "Area":"Carlow",
-    "TravelMeans":"all",
+    "TravelType":"all",
     "NumPeople":31891
   },
   {
     "AreaCode":"C02",
     "AreaType":"CTY",
     "Area":"Dublin City",
-    "TravelMeans":"all",
+    "TravelType":"all",
     "NumPeople":320677
   },
   {
     "AreaCode":"C03",
     "AreaType":"CTY",
     "Area":"South Dublin",
-    "TravelMeans":"all",
+    "TravelType":"all",
     "NumPeople":165789
   },
   {
     "AreaCode":"C04",
     "AreaType":"CTY",
     "Area":"Fingal",
-    "TravelMeans":"all",
+    "TravelType":"all",
     "NumPeople":178453
   },
   {
     "AreaCode":"C05",
     "AreaType":"CTY",
     "Area":"Dún Laoghaire-Rathdown",
-    "TravelMeans":"all",
+    "TravelType":"all",
     "NumPeople":133469
   },
   {
     "AreaCode":"C06",
     "AreaType":"CTY",
     "Area":"Kildare",
-    "TravelMeans":"all",
+    "TravelType":"all",
     "NumPeople":135171
   },
   {
     "AreaCode":"C07",
     "AreaType":"CTY",
     "Area":"Kilkenny",
-    "TravelMeans":"all",
+    "TravelType":"all",
     "NumPeople":58095
   },
   {
     "AreaCode":"C08",
     "AreaType":"CTY",
     "Area":"Laois",
-    "TravelMeans":"all",
+    "TravelType":"all",
     "NumPeople":48161
   },
   {
     "AreaCode":"C09",
     "AreaType":"CTY",
     "Area":"Longford",
-    "TravelMeans":"all",
+    "TravelType":"all",
     "NumPeople":22396
   },
   {
     "AreaCode":"C10",
     "AreaType":"CTY",
     "Area":"Louth",
-    "TravelMeans":"all",
+    "TravelType":"all",
     "NumPeople":72048
   },
   {
     "AreaCode":"C11",
     "AreaType":"CTY",
     "Area":"Meath",
-    "TravelMeans":"all",
+    "TravelType":"all",
     "NumPeople":116189
   },
   {
     "AreaCode":"C12",
     "AreaType":"CTY",
     "Area":"Offaly",
-    "TravelMeans":"all",
+    "TravelType":"all",
     "NumPeople":44879
   },
   {
     "AreaCode":"C13",
     "AreaType":"CTY",
     "Area":"Westmeath",
-    "TravelMeans":"all",
+    "TravelType":"all",
     "NumPeople":51700
   },
   {
     "AreaCode":"C14",
     "AreaType":"CTY",
     "Area":"Wexford",
-    "TravelMeans":"all",
+    "TravelType":"all",
     "NumPeople":82402
   },
   {
     "AreaCode":"C15",
     "AreaType":"CTY",
     "Area":"Wicklow",
-    "TravelMeans":"all",
+    "TravelType":"all",
     "NumPeople":83030
   },
   {
     "AreaCode":"C16",
     "AreaType":"CTY",
     "Area":"Clare",
-    "TravelMeans":"all",
+    "TravelType":"all",
     "NumPeople":71462
   },
   {
     "AreaCode":"C17",
     "AreaType":"CTY",
     "Area":"Cork City",
-    "TravelMeans":"all",
+    "TravelType":"all",
     "NumPeople":67924
   },
   {
     "AreaCode":"C18",
     "AreaType":"CTY",
     "Area":"Cork",
-    "TravelMeans":"all",
+    "TravelType":"all",
     "NumPeople":252103
   },
   {
     "AreaCode":"C19",
     "AreaType":"CTY",
     "Area":"Kerry",
-    "TravelMeans":"all",
+    "TravelType":"all",
     "NumPeople":84845
   },
   {
     "AreaCode":"C20",
     "AreaType":"CTY",
     "Area":"Limerick City",
-    "TravelMeans":"all",
+    "TravelType":"all",
     "NumPeople":31122
   },
   {
     "AreaCode":"C21",
     "AreaType":"CTY",
     "Area":"Limerick",
-    "TravelMeans":"all",
+    "TravelType":"all",
     "NumPeople":83867
   },
   {
     "AreaCode":"C22",
     "AreaType":"CTY",
     "Area":"Tipperary North",
-    "TravelMeans":"all",
+    "TravelType":"all",
     "NumPeople":42566
   },
   {
     "AreaCode":"C23",
     "AreaType":"CTY",
     "Area":"Tipperary South",
-    "TravelMeans":"all",
+    "TravelType":"all",
     "NumPeople":51731
   },
   {
     "AreaCode":"C24",
     "AreaType":"CTY",
     "Area":"Waterford City",
-    "TravelMeans":"all",
+    "TravelType":"all",
     "NumPeople":26908
   },
   {
     "AreaCode":"C25",
     "AreaType":"CTY",
     "Area":"Waterford",
-    "TravelMeans":"all",
+    "TravelType":"all",
     "NumPeople":40134
   },
   {
     "AreaCode":"C26",
     "AreaType":"CTY",
     "Area":"Galway City",
-    "TravelMeans":"all",
+    "TravelType":"all",
     "NumPeople":48392
   },
   {
     "AreaCode":"C27",
     "AreaType":"CTY",
     "Area":"Galway",
-    "TravelMeans":"all",
+    "TravelType":"all",
     "NumPeople":107410
   },
   {
     "AreaCode":"C28",
     "AreaType":"CTY",
     "Area":"Leitrim",
-    "TravelMeans":"all",
+    "TravelType":"all",
     "NumPeople":18463
   },
   {
     "AreaCode":"C29",
     "AreaType":"CTY",
     "Area":"Mayo",
-    "TravelMeans":"all",
+    "TravelType":"all",
     "NumPeople":76487
   },
   {
     "AreaCode":"C30",
     "AreaType":"CTY",
     "Area":"Roscommon",
-    "TravelMeans":"all",
+    "TravelType":"all",
     "NumPeople":37895
   },
   {
     "AreaCode":"C31",
     "AreaType":"CTY",
     "Area":"Sligo",
-    "TravelMeans":"all",
+    "TravelType":"all",
     "NumPeople":40022
   },
   {
     "AreaCode":"C32",
     "AreaType":"CTY",
     "Area":"Cavan",
-    "TravelMeans":"all",
+    "TravelType":"all",
     "NumPeople":43394
   },
   {
     "AreaCode":"C33",
     "AreaType":"CTY",
     "Area":"Donegal",
-    "TravelMeans":"all",
+    "TravelType":"all",
     "NumPeople":88796
   },
   {
     "AreaCode":"C34",
     "AreaType":"CTY",
     "Area":"Monaghan",
-    "TravelMeans":"all",
+    "TravelType":"all",
     "NumPeople":36262
   }
 ]
