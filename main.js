@@ -1,5 +1,5 @@
-var fs = require('fs');
-var express = require('express');
+var fs = require('fs'); // Import the fs module so that we can read in files.
+var express = require('express');// Import express to create and configure the HTTP server.
 
 var sqlite3 = require('sqlite3').verbose();
 
@@ -7,7 +7,7 @@ var sqlite3 = require('sqlite3').verbose();
 var db = new sqlite3.Database(':memory:'); 
 //var db = new sqlite3.Database('filename'); 
 
-var app = express();
+var app = express(); // Create a HTTP server app.
 
 var bodyParser = require('body-parser');
 app.use(bodyParser.json());
@@ -17,7 +17,7 @@ var rowHolder;
 
 
 //create first table "travMeans" if it has not already been done
-var travelMeans = JSON.parse(fs.readFileSync('travelMeans.json','utf8'));
+var travelMeans = JSON.parse(fs.readFileSync('travelMeans.json','utf8')); // Read in the text file and parse it for JSON.
 db.serialize(function() {
   db.run('CREATE TABLE IF NOT EXISTS travMeans (areacode TEXT, areatype TEXT, area TEXT, traveltype TEXT, numpeople REAL)');
   var stmt = db.prepare('INSERT INTO travMeans (areacode, areatype, area, traveltype, numpeople) VALUES (?,?,?,?,?)');
@@ -40,7 +40,7 @@ db.serialize(function() {
 
 
 //create second table "houseCars" if it does not already exist  
-var householdCars = JSON.parse(fs.readFileSync('householdCars.json','utf8'));
+var householdCars = JSON.parse(fs.readFileSync('householdCars.json','utf8')); // Read in the text file and parse it for JSON.
  db.serialize(function() {
   db.run('CREATE TABLE IF NOT EXISTS houseCars (areacode1 TEXT, areatype1 TEXT, area1 TEXT, numcars TEXT, numhouses REAL)');
   var stmt = db.prepare('INSERT INTO houseCars (areacode1, areatype1, area1, numcars, numhouses) VALUES (?,?,?,?,?)');
