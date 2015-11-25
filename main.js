@@ -1,101 +1,168 @@
-var express = require('express');
-var sqlite3 = require('sqlite3').verbose();
 var fs = require('fs');
+var express = require('express');
 
-var travMeans = JSON.parse(fs.readFileSync('travelMeans.json','utf8'))
+var sqlite3 = require('sqlite3').verbose();
 
-var db = new sqlite3.Database('projectdb');
+//below line stores db in memory, uncomment next line to store as file instead
+var db = new sqlite3.Database(':memory:'); 
+//var db = new sqlite3.Database('filename'); 
 
-var posthc = [];
-var posttm = [];
+var app = express();
 
-//first table "travMeans"
+var bodyParser = require('body-parser');
+app.use(bodyParser.json());
+app.use(bodyParser.urlencoded({extended:true}));
+
+var rowHolder;
+
+
+//create first table "travMeans" if it has not already been done
+var travelMeans = JSON.parse(fs.readFileSync('travelMeans.json','utf8'));
 db.serialize(function() {
   db.run('CREATE TABLE IF NOT EXISTS travMeans (areacode TEXT, areatype TEXT, area TEXT, traveltype TEXT, numpeople REAL)');
   var stmt = db.prepare('INSERT INTO travMeans (areacode, areatype, area, traveltype, numpeople) VALUES (?,?,?,?,?)');
-  for (var i = 0; i < travMeans.length; i++) {
-      stmt.run(travMeans[i].AreaCode
-               , travMeans[i].AreaType
-               , travMeans[i].Area
-               , travMeans[i].TravelType
-               , travMeans[i].NumPeople
+  for (var i = 0; i < travelMeans.length; i++) {
+      stmt.run(travelMeans[i].AreaCode
+               , travelMeans[i].AreaType
+               , travelMeans[i].Area
+               , travelMeans[i].TravelType
+               , travelMeans[i].NumPeople
               );
   }
     stmt.finalize();
 
- /*db.each("SELECT * FROM travMeans", function(err, row) {
-      console.log(row.areacode + ": " + row.area);
-  });*/
+    //prints out selected rows to console
+ db.each("SELECT * FROM travMeans", function(err, row) {
+      console.log(row.area + ": " + row.traveltype + " " + row.numpeople);
+  });
 });
 
 
-//second table "houseCars"
-var houseCars = JSON.parse(fs.readFileSync('householdCars.json','utf8'))
-    
+
+//create second table "houseCars" if it does not already exist  
+var householdCars = JSON.parse(fs.readFileSync('householdCars.json','utf8'));
  db.serialize(function() {
   db.run('CREATE TABLE IF NOT EXISTS houseCars (areacode1 TEXT, areatype1 TEXT, area1 TEXT, numcars TEXT, numhouses REAL)');
   var stmt = db.prepare('INSERT INTO houseCars (areacode1, areatype1, area1, numcars, numhouses) VALUES (?,?,?,?,?)');
-  for (var i = 0; i < houseCars.length; i++) {
-      stmt.run(houseCars[i].AreaCode
-               , houseCars[i].AreaType
-               , houseCars[i].Area
-               , houseCars[i].NumCars
-               , houseCars[i].NumHouseholds
+  for (var i = 0; i < householdCars.length; i++) {
+      stmt.run(householdCars[i].AreaCode
+               , householdCars[i].AreaType
+               , householdCars[i].Area
+               , householdCars[i].NumCars
+               , householdCars[i].NumHouseholds
               );
   }  
         
   stmt.finalize();
       
+     //prints out selected rows to console
      db.each("SELECT * FROM houseCars", function(err, row) {
-      console.log(row.areacode1 + ": " + row.numhouses); //prints out the areacode and number of houses from the houseCars table
+      console.log(row.area1 + ": " + row.numcars + " " + row.numhouses); 
   });
 });
 
-//must declare express for the below statement to work
-var app = express();
+
+//shows page with brief description of the API
 app.get('/', function(req, res) {
-  res.send("This is an API which uses a dataset for the number of households with cars seperated by area and also the means of travel used to commute");//Brief description of the API
+  res.send("<h1><font color=dark red>API for comparing Cars per Household and Means of Travel</h1> </font><body><p>A user can seach for the means of travel used in all area by searching localhost:8008/travMeans. A user can seach for the means of travel used in a particular area by searching localhost:8008/travMeans/'area' where area is eg Cavan.  A user can seach for the means of travel used in a particular area and by a particualar means by searching localhost:8008/travMeans/'area'/'means' where area is eg 'Cavan' and means is for e.g 'On foot'</p><p>A user can seach for cars per household in all areas by searching localhost:8008/householdCars. A user can seach for the number of household cars in a particular area by searching localhost:8008/houseCars/'area' where area is eg Cavan.  A user can seach for the cars per household used in a particular area and by a particualar amount of cars by searching localhost:8008/houseCars/'area'/'x' where area is eg 'Mayo' and x is for e.g '4+'</p><p>A user can seach for a combination of these tables by searching localhost:8008/both/area/traveltype and localhost:8008/both/area/traveltype using the same examples given already.<body>");
+});
+
+/////////////////////
+/////////////////////
+//travelMeans table operations
+
+//outputs formatted rows from travMeans table 
+app.get('/travMeans/', function(req, res){
+  db.all("SELECT * FROM travMeans", function(err, row) {
+      
+    rowHolder = JSON.stringify(row, null, '\t');
+    res.sendStatus(rowHolder);
+  });
 });
 
 
-
-///////////////////////////////
-// Here we will put the main work
-//////////////////////////////
-
-
-//This pushes all selected data out to the address below e.g '/hosuecars'
-db.serialize(function() {
-    db.each("SELECT * FROM houseCars", function(err, row) {
-    posthc.push({area1: row.area1, numcars: row.numcars, numhouses: row.numhouses})//outputs area, numcars, numhouses
-    }, function() {       
-    })
-})
-app.get('/housecars', function(req, res) {
-    console.log("Getting houseCars data...");
-    res.send(posthc);
+//outputs formatted rows from travMeans table for a particular area
+app.get('/travMeans/:area/', function(req, res) {
+    db.all("SELECT * FROM travMeans WHERE area = " + req.params.area, function(err, row){
+        
+      rowHolder = JSON.stringify(row, null, '\t');
+      res.sendStatus(rowHolder);
+    });
 });
+
+//outputs formatted rows from travMeans table for a particular area and travel type
+app.get('/travMeans/:area/:traveltype', function(req,res){
+  db.all("SELECT * FROM travMeans WHERE area = " + req.params.area + " AND traveltype = " + req.params.traveltype, function(err, row){
+      
+    rowHolder = JSON.stringify(row, null, '\t');
+    res.sendStatus(rowHolder);
+  });
+});
+
+///////////////////////
+///////////////////////
+//houseCars table operations
+
+//outputs formatted rows from houseCars table
+app.get('/houseCars/', function(req, res){
+  db.all("SELECT * FROM houseCars", function(err, row) {
+      
+    rowHolder = JSON.stringify(row, null, '\t');
+    res.sendStatus(rowHolder);
+  });
+});
+
+//outputs formatted rows from houseCars table for a particular area
+app.get('/houseCars/:area1/', function(req, res) {
+    db.all("SELECT * FROM houseCars WHERE area1 = " + req.params.area1, function(err, row){
+        
+      rowHolder = JSON.stringify(row, null, '\t');
+      res.sendStatus(rowHolder);
+    });
+});
+
+
+//outputs formatted rows from houseCars table for a particular area which shows houses with x amount of cars
+app.get('/houseCars/:area1/:numcars', function(req,res) {
+    
+  db.all("SELECT * FROM houseCars WHERE area1 = " + req.params.area1 + " AND numcars = " + req.params.numcars, function(err, row){
+    
+    rowHolder = JSON.stringify(row, null, '\t');
+    res.sendStatus(rowHolder);
+  });
+});
+
+
+//////////////////
+/////////////////
+//travMeans and houseCars operations
+
+//this will display for an area how many people use a certain type of 
+//transport and compares this figure to people with different numbers of cars per household
+app.get('/both/:area/:traveltype', function(req,res) {
+    
+  db.all("SELECT area, area1, traveltype, numpeople, numcars, numhouses FROM travMeans AS T JOIN houseCars AS H ON T.area=H.area1 WHERE area = " + req.params.area + " AND traveltype = " + req.params.traveltype, function(err, row){
+    
+    rowHolder = JSON.stringify(row, null, '\t');
+    res.sendStatus(rowHolder);
+  });
+});
+
+
+//this will display for an area how many people use a certain type of 
+//transport and compares this figure to people with the chosen numbers of cars per household
+app.get('/both/:area/:traveltype/:numcars', function(req,res) {
+    
+  db.all("SELECT area, area1, traveltype, numpeople, numcars, numhouses FROM travMeans AS T JOIN houseCars AS H ON T.area=H.area1 WHERE area = " + req.params.area + " AND traveltype = " + req.params.traveltype + " AND numcars = " + req.params.numcars, function(err, row){
+    
+    rowHolder = JSON.stringify(row, null, '\t');
+    res.sendStatus(rowHolder);
+  });
+});
+
 
 /////
-//Pushed data for travel means table
-db.serialize(function() {
-    db.each("SELECT * FROM travMeans", function(err, row) {
-    posttm.push({area: row.area, traveltype: row.traveltype, numpeople: row.numpeople})//outputs area, traveltype, numpeople
-    }, function() {       
-    })
-})
-//var app = express();
-app.get('/travelmeans', function(req, res) {
-    console.log("Getting travel means data...");
-    res.send(posttm);
-});
-//////////////////////////////////
-//////////////////////////
 
 
-db.close();
-
-
-
-
-var server = app.listen(8080);
+//server is running on the port below
+var server = app.listen(8008);
