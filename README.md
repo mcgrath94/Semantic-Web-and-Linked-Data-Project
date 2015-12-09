@@ -20,12 +20,12 @@ This dataset gives the area, area type, means of travel, and the number of peopl
 
 ##### Means of Travel
 A user can seach for the means of travel used in all area by searching localhost:8008/travMeans. A user can seach for the means of travel used in a particular area by searching localhost:8008/travMeans/"area" where area is eg Cavan.  A user can seach for the means of travel used in a particular area and by a particualar means by searching localhost:8008/travMeans/"area"/"means" where area is eg "Cavan" and means is for e.g "On foot". This result would return the following;
-{\n
-		"areacode": "C32",\n
-		"areatype": "CTY",\n
-		"area": "Cavan",\n
-		"traveltype": "On foot",\n
-		"numpeople": 3880\n
+{/n
+		"areacode": "C32",/n
+		"areatype": "CTY",/n
+		"area": "Cavan",/n
+		"traveltype": "On foot",/n
+		"numpeople": 3880/n
 }	
 
 ##### Cars per household
